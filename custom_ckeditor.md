@@ -3,7 +3,7 @@
 ```css
 .django-ckeditor-widget, .cke_editor_id_content {
     width: 100% !important;
-    max-width: 821px;
+    max-width: 821px !important;
 }
 ```
 
