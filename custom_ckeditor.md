@@ -7,6 +7,12 @@
 }
 ```
 
+### Inyectar en pages_menu.html
+
+```html
+<link href="{% static 'pages/css/custom_ckeditor.css' %}" rel="stylesheet">
+```
+
 ### admin.py
 
 ```python
