@@ -1,4 +1,4 @@
-### static/pages/css/custom_editor.css
+### static/pages/css/custom_ckeditor.css
 
 ```css
 .django-ckeditor-widget, .cke_editor_id_content {
