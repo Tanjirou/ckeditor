@@ -1,4 +1,4 @@
-### Código para /static/pages/css/custom_editor.css:
+### static/pages/css/custom_editor.css
 
 ```css
 .django-ckeditor-widget, .cke_editor_id_content {
@@ -7,7 +7,7 @@
 }
 ```
 
-### Código para el admin.py
+### admin.py
 
 ```python
 from django.contrib import admin
