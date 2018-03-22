@@ -13,7 +13,7 @@
 <link href="{% static 'pages/css/custom_ckeditor.css' %}" rel="stylesheet">
 ```
 
-### admin.py
+### Inyectar en admin.py
 
 ```python
 from django.contrib import admin
